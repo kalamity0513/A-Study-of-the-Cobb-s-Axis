@@ -14,7 +14,7 @@
 # How to run it?
 In **_main_app.py_**, replace the variable **_image_path_** with the respective file path of the _.dcm_ image slice
 ```
-image_path = "/*.dcm"
+image_path = "./*.dcm"
 ```
 > [!CAUTION]
 > The joint line is drawn here on the slice of the resection depth but ideally, it should be done on the slice that show the tibial spines as to be very accurate. This could be a potential update to the UI. 
