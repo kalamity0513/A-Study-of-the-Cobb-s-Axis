@@ -5,9 +5,9 @@
 ![image](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/dc94fa76-51d9-4201-8468-d3871a0bbccf)
 
 # How to run it?
-In **_main_app.py_**, replace 
+In **_main_app.py_**, replace the variable **_image_path_** with the respective file path of the .dcm image slice
 ```
 image_path = "/*.dcm"
 ```
-with the respective file path of the .dcm image slice
+
 
