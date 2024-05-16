@@ -6,8 +6,8 @@
 
 # How to run it?
 In **_main_app.py_**, replace 
-'''
+```
 image_path = "/*.dcm"
-'''
+```
 with the respective file path of the .dcm image slice
 
