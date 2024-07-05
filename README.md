@@ -3,11 +3,15 @@
 ![Static Badge](https://img.shields.io/badge/status-in_progress-red?style=flat&labelColor=%237fb3d5&color=%231a5276)
 
 ## What does the program do
-The program runs by taking an input to a folder containing all the dcm files for of the CT of the hip, knee, and ankle. Then it identifies the correct slice at resection depth. Following which it allows the user to draw a intersection line of the medial and lateral condyles. Lastly, it allows the user to edit points and see the new Cobb's axis and metrics depending on a selected 5 points.
+The program runs by taking an input to a folder containing all the .dcm files for CTs of the Lower Extremities. Then it identifies the slice at resection depth. Following which it allows the user to draw a intersection line of the medial and lateral condyles. Lastly, it allows the user to refine points being selected and visualise the new Cobb's axis and metrics.
 
 ## How does the UI work?
 <p align="center">
   <img src="https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/b8133f47-fea4-4a77-ac7b-2326ecc623b9" alt="Screen Recording">
+</p>
+
+<p align="center">
+![ScreenRecording2024-07-05at5 06 17PM-ezgif com-video-to-gif-converter](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/2520c6b4-bb60-40c6-936f-c77226ea0831)
 </p>
 
 > [!TIP]
