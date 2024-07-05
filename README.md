@@ -11,6 +11,7 @@ The program runs by taking an input to a folder containing all the .dcm files fo
 </p>
 
 <p align="center">
+  <img src="https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/b8133f47-fea4-4a77-ac7b-2326ecc623b9", alt= "ScreenRecording2024-07-05at5.06.17PM-ezgif.com-video-to-gif-converter.gif"
 ![ScreenRecording2024-07-05at5 06 17PM-ezgif com-video-to-gif-converter](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/2520c6b4-bb60-40c6-936f-c77226ea0831)
 </p>
 
