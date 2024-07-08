@@ -1,7 +1,5 @@
 # AutoCobb
 
-![Static Badge](https://img.shields.io/badge/status-in_progress-red?style=flat&labelColor=%237fb3d5&color=%231a5276)
-
 ## What does the program do
 The program runs by taking an input to a folder containing all the .dcm files for CTs of the Lower Extremities. Then it identifies the slice at resection depth. Following which it allows the user to draw a intersection line of the medial and lateral condyles. Lastly, it allows the user to refine points being selected and visualise the new Cobb's axis and metrics.
 
