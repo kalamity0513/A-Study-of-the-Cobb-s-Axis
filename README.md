@@ -72,5 +72,5 @@ AutoCobb is a tool designed to process CT scans of the lower extremities. It ide
 > The UI alerts users to potential angular discrepancies between the planned Cobb's axis and the user's current alignment. Deviations exceeding 1 to 2 degrees may indicate an incorrect Cobb's axis, except in cases involving osteophytes. If a point lies on an osteophyte, this warning can be disregarded.
 ---
 
-Feel free to customize and expand this template to suit your project's specific needs.
+
 
