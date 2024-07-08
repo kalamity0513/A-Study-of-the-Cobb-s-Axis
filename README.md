@@ -71,8 +71,7 @@ AutoCobb is a tool designed to process CT scans of the lower extremities. It ide
 
 
 ### Visual Workflow
-
-![Visual Workflow](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/blob/main/Workflow%20(1).png)
+![Visual Workflow](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/7d797f13-7576-4df3-9131-ac7d07234822)
 
 ### Notes
 
