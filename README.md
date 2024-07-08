@@ -54,10 +54,15 @@ AutoCobb is a tool designed to process CT scans of the lower extremities. It ide
 1. **Slice Identification**: The user interface (UI) identifies the optimal axial tibial view slice at the resection depth with 62.5% accuracy across 8 test cases.
    
 2. **DICOM Slider**: For the remaining cases, the selected slice is within 1 to 4 slices before or after the correct resection depth. To address this variability, an integrated DICOM slider enables users to adjust the slice using up or down arrows.
+
+<p align="center">
+  <img src="https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/blob/main/ScreenRecording2024-07-08at2.00.27PM-ezgif.com-video-to-gif-converter.gif" alt="Screen Recording">
+</p>
+<p align="center"><em> User interface demonstrating automatic slice selection and DICOM viewer</em></p>
    
-3. **Joint Line Drawing**: Enables the user to draw an intersection line between the medial and lateral condyles on the identified slice.
+4. **Joint Line Drawing**: Enables the user to draw an intersection line between the medial and lateral condyles on the identified slice.
    
-4. **Cobb's Axis Visualization**: Provides tools to refine selected points and visualize the new Cobb's axis and metrics for surgical planning.
+5. **Cobb's Axis Visualization**: Provides tools to refine selected points and visualize the new Cobb's axis and metrics for surgical planning.
 
 <p align="center">
   <img src="https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/b8133f47-fea4-4a77-ac7b-2326ecc623b9" alt="Screen Recording">
@@ -67,7 +72,7 @@ AutoCobb is a tool designed to process CT scans of the lower extremities. It ide
 
 ### Visual Workflow
 
-![Visual Workflow](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/dc94fa76-51d9-4201-8468-d3871a0bbccf)
+![Visual Workflow](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/blob/main/Workflow%20(1).png)
 
 ### Notes
 
