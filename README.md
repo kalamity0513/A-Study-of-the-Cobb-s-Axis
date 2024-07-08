@@ -56,7 +56,7 @@ AutoCobb is a tool designed to process CT scans of the lower extremities. It ide
 2. **DICOM Slider**: For the remaining cases, the selected slice is within 1 to 4 slices before or after the correct resection depth. To address this variability, an integrated DICOM slider enables users to adjust the slice using up or down arrows.
 
 <p align="center">
-  <img src="![ScreenRecording2024-07-08at2 00 27PM-ezgif com-video-to-gif-converter](https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/528e1492-92c4-407a-9b0c-d99e84a94e49)" alt="Screen Recording">
+  <img src="https://github.com/kalamity0513/A-Study-of-the-Cobb-s-Axis/assets/115133535/528e1492-92c4-407a-9b0c-d99e84a94e49" alt="Screen Recording">
 </p>
 <p align="center"><em> User interface demonstrating automatic slice selection and DICOM viewer</em></p>
    
